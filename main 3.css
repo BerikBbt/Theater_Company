@@ -1,0 +1,38 @@
+/* .container {  
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-auto-columns: 1fr;
+    gap: 0% 0px;
+    grid-auto-flow: row;
+        */
+* {
+    border: 1px solid #9e1b1b;
+
+}
+
+.container {
+    justify-content: center;
+    padding: 2em;
+    flex-direction: column;
+
+}
+
+.Body1 {
+    display: flex;
+    flex-direction: raw;
+
+}
+header{
+text-
+
+}
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
